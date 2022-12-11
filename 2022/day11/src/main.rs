@@ -42,5 +42,5 @@ fn main() {
         }
     }
     inspected.sort();
-    println!("{}", inspected[6] as i64 * inspected[7] as i64);
+    println!("{}", inspected[6]*inspected[7] );
 }
